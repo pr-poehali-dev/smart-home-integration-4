@@ -88,7 +88,7 @@ export default function HeroSection() {
                   Персональный тренер
                 </p>
                 <p className="text-3xl font-light text-white md:text-4xl lg:text-5xl">
-                  Александр Громов
+                  Владимир Сидоренко
                 </p>
                 <p className="text-lg font-light text-white/70 md:text-xl">
                   50 лет практического опыта · Самозащита · Боевые искусства
