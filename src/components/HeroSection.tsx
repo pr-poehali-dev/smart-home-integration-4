@@ -70,7 +70,7 @@ export default function HeroSection() {
             >
               <div className="relative h-48 w-48 overflow-hidden rounded-full border-4 border-white/90 shadow-2xl md:h-56 md:w-56">
                 <img
-                  src="https://cdn.poehali.dev/templates/creative-portfolio-ru/portrait.jpg"
+                  src="https://cdn.poehali.dev/projects/8ee0b21a-4bf9-47e6-ad9b-5a26cff25778/bucket/e41adf82-22d7-46bb-a708-1b0a0100accb.jpg"
                   alt="Персональный тренер"
                   className="h-full w-full object-cover"
                 />
